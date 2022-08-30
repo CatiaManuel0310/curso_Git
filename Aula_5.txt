@@ -1,0 +1,500 @@
+   28  more id_rsa.pub
+   29  clear
+   30  ls -al ~/.ssh
+   31  ssh-keygen -t ed25519 -C "manuelcatia20@gmail.com"
+   32  start the ssh-agent in the background
+   33  ssh-keygen -t rsa -b 4096 -c "manuelcatia20@gmail.com"
+   34  clear
+   35  ssh-keygem -t rsa -b 4096 -C "manuelcatia20@gmail.com"
+   36  ssh-keygen -t rsa -b 4096 -C "manuelcatia20@gmail.com"
+   37  ls ~/.ssh
+   38  cat ~/.ssh/id_rsa.pub
+   39  cd ..
+   40  mkdir clone
+   41  cd clone
+   42  ls -a
+   43  git clone mkdir: cannot create directory ‘clone’: File exists
+   44  git clone mkdir: cannot create directory ‘clone’: File exists
+   45  git clone git@github.com:CatiaManuel0310/Aula07.git
+   46  ls -a
+   47  cd Aula07/
+   48  git logpg
+   49  git --hrlp
+   50  git --help
+   51  git help -a
+   52  git init
+   53  git status
+   54  echo "modoDePreparo" >readme.md
+   55  git config --global user.name "Catia Manuel"
+   56  git config --global user.email "manuelcatia20@gmail.com"
+   57  cd desktop/
+   58  mkdir Caldo Branco
+   59  cd Caldo Branco
+   60  cd Caldo Branco/
+   61  git config --global user.name "Catia Manuel"
+   62  git init
+   63  git add .
+   64  git commit -m "[caldo branco feito em GB]"
+   65  git status
+   66  git add "Comidas.txt"
+   67  git push
+   68  git remote add origin https://github.com/CatiaManuel0310/Ingredientes
+   69  git push
+   70  git push --set-upstream origin master
+   71  git branch
+   72  git status
+   73  git checkout -b feature
+   74  git branch
+   75  touch Nova_feature
+   76  git status
+   77  git add Nova_feature
+   78  git commit -m "adicionando nova feature"
+   79  git log
+   80  git config --global use.name "Catia Mnuel"
+   81  git config --global user.email "manuelcatia20@gmail.com"
+   82  git init
+   83  git status
+   84  cd
+   85  CD .
+   86  cd .
+   87  cd ./Falar sobre mim/
+   88  git init
+   89  mkdir Falar sobre mim
+   90  git init
+   91  code .
+   92  clear
+   93  git status
+   94  git add .
+   95  git init
+   96  git add inde.html
+   97  git add index.html
+   98  git status
+   99  git commit -m "Meu primeiro portfolio em html"
+  100  git remote add origin git@github.com:CatiaManuel0310/PORTFOLIO.git
+  101  git add index.html
+  102  git add index.html
+  103  git remote add origin (use "git rm --cached <file>..." to unstage)
+  104  git remote add git@github.com:CatiaManuel0310/PORTFOLIO.git
+  105  git branch -M master
+  106  git push -u origin master
+  107  git init
+  108  git add .
+  109  git status
+  110  git commit -m "Meu primeiro formulario html"
+  111  git remote add origin git@github.com:CatiaManuel0310/Formulario.html.git
+  112  git branch -M master
+  113  git push -n origin master
+  114  dit status
+  115  git init
+  116  git add index.html
+  117  git add .
+  118  git status
+  119  git init
+  120  git add .
+  121  git status
+  122  git commit -m "Estilizar o Portfolio"
+  123  git reremote add origin URL
+  124  git remote add origin git@github.com:CatiaManuel0310/PORTFOLIO-Css.git
+  125  git branch -M master
+  126  git push -u origin master
+  127  mkdir fetch-api && fetch-api
+  128  node --version
+  129  node --version
+  130  clear
+  131  node --version
+  132  node
+  133  mkdir projeto-ts
+  134  npm init
+  135  git config--global user.name "Catia Manuel"
+  136  git config --global user.email "manuelcatia20@gmail.com"
+  137  git init
+  138  git status
+  139  cd SomandoNumeros-html,css,Js
+  140  dir
+  141  cd Somando Números-html,css,Js
+  142  git status
+  143  clear
+  144  git config --global user.name "CatiaManuel"
+  145  git config --global user.email "manuelcatia20@gmail.com"
+  146  git init
+  147  git status
+  148  git add .
+  149  git commit -m "Consultando o Cep"
+  150  git remote add origin "git@github.com:CatiaManuel0310/Consultar-Cep.git"
+  151  git push -U origem master
+  152  git push-U origin master
+  153  clear
+  154  git config --global user.name "CatiaManuel"
+  155  git config --global. user.email "manuelcatia202gmail.com"
+  156  clear
+  157  git config --global user.name "CatiaManuel"
+  158  git config --global user.email "manuelcatia20@gmail.com"
+  159  git init
+  160  git status
+  161  git add .
+  162  git commit -m "Consultar o Cep com API"
+  163  git config --global user.name "CatiaManuel"
+  164  git config --global user.email "manuelcatia20@gmail.com"
+  165  git init
+  166  git add .
+  167  git commit -m "Consultando cep com api"
+  168  git config --global user.name "CatiaManuel"
+  169  git config --global user.email "manuelcatia20@gmail.com"
+  170  git init
+  171  git status
+  172  git add .
+  173  git commit -m "first formulário"
+  174  git remote add origin "git@github.com:CatiaManuel0310/Formul-rio-de-Cadastro.git"
+  175  git push -u origin master
+  176  git init
+  177  git status
+  178  clear
+  179  git init
+  180  git status
+  181  git init
+  182   git add .
+  183  git commit -m "consultar cep com Api"
+  184  git config --global user.name "CatiaManuel"
+  185  git config --global user.email "manuelcatia20@gmail.com"
+  186  git init
+  187  git status
+  188  git add .
+  189  git commit -m "Criei Cep-api"
+  190  clear
+  191  git init
+  192  git status
+  193  git add .
+  194  git commit -m "first cep-api"
+  195  git remote add origin "git@github.com:CatiaManuel0310/Cep-api.git"
+  196  git push -u origin master
+  197  git init
+  198  git status
+  199  git add .
+  200  git commit -m "First Eventos Dom"
+  201  git remote add origin "git@github.com:CatiaManuel0310/Eventos-Dom.git"
+  202  git push -u origin master
+  203  git init
+  204  git status
+  205  git config -m "first projeto-API"
+  206  git remote add origin "git@github.com:CatiaManuel0310/PROJETO-API-S-Cep.git"
+  207  git push -u origin master
+  208  git push -u origin master
+  209  git remote add origin "git@github.com:CatiaManuel0310/PROJETO-API-S-Cep.git"
+  210  git push -u origin master
+  211  git remote add origin "git@github.com:CatiaManuel0310/PROJETO-API-S-Cep.git"
+  212  clear
+  213  git config --global user.name "CatiaManuel"
+  214  git config --global user.email "manuelcatia20@gmail.com"
+  215  git init
+  216  git status
+  217   git add .
+  218  git commit -m "first Projeto-Api"
+  219  git remote add origin "git@github.com:CatiaManuel0310/PROJETO-API-S-Cep.git"
+  220  git push -u origin master
+  221  git config --global user.name "CatiaManuel"
+  222  git config --global user.email "manuelcatia20@gmail.coom"
+  223  git init
+  224  git  status
+  225  git add .
+  226  git commit -m "Meu Portfólio-js"
+  227  git remote add origin "git@github.com:CatiaManuel0310/PORTF-LIO--JS.git"
+  228  git push -u origin master
+  229  git config --global user.name "CatiaManuel"
+  230  git config --global user.email "manuelcatia20@gmail.com"
+  231  git init
+  232  git status
+  233  gitt add .
+  234  git add .
+  235  git commit -m "Meu portfólio- js"
+  236  git remote add origin "git@github.com:CatiaManuel0310/PORTF-LIO--JS.git"
+  237  git push -u origin master
+  238  git config global -- user.name "CatiaManuel"
+  239  git config --global user.name "CatiaManuel"
+  240  git config global -- user.email "manuelcatia20@gmail.com"
+  241  git config --global user.email "manuelcatia20@gmail.com"
+  242  git init
+  243  git status
+  244  git add .
+  245  git commit -m "Meu portfólio Js"
+  246  git remote add origin "git@github.com:CatiaManuel0310/Meu-Port-lio.git"
+  247  git push -u origin master
+  248  git config --global user.name "CatiaManuel"
+  249  git config --global user.email.= "manuelcatia20@gmail.com"
+  250  git config --global user.email "manuelcatia20@gmail.com"
+  251  git init
+  252  git status
+  253  git add .
+  254  git commit -m " Portfólio"
+  255  git remote add origin "git@github.com:CatiaManuel0310/Meu-Portf-lio-JS.git"
+  256  git push -u origin master
+  257  git config --global user.name "CatiaManuel0310"
+  258  git config --global user.email "manuelcatia20@gmail.com"
+  259  git init
+  260  git status
+  261  git push -u origin master
+  262  dir
+  263  git config --global user.name "CatiaManuel0310"
+  264  git config --global user.email "manuelcatia20@gmail.com"
+  265  git init
+  266  git status
+  267  git add .
+  268  git commit -m "first Portfólio"
+  269  git remote add origin "git@github.com:CatiaManuel0310/Meu-Portf-lio-JS.git"
+  270  git push -u origin master
+  271  git config --global user.name "CatiaManuel0310"
+  272  git config --global user.email "manuelcatia20@gmail.com"
+  273  git status
+  274  git add .
+  275  git commit -m "first Portfólio-JS"
+  276  git add .
+  277  git push -u origin master
+  278  git config --global user.name "CatiaManuel0310"
+  279  git config --global user.email "manuelcatia20@gmail.com"
+  280  dir
+  281  git config --global user.name "CatiaManuel0310"
+  282  git config --global user.email "manuelcatia20@gmail.com"
+  283  dir
+  284  git status
+  285  git add .
+  286  clear
+  287  git config --global user.name "CatiaManuel"
+  288  git config --global user.name "manuelcatia20@gmail.com"
+  289  git init
+  290  git status
+  291  git push 
+  292  npm init
+  293  npm init --global
+  294  npm install
+  295  npm install --location=global
+  296  npx create-react-app my-app --use-npm
+  297  npx create-react-app novo-app
+  298  cd novo-app
+  299  npm start
+  300  npm start
+  301  npx-create-react-app my-app
+  302  npx-create-react-app my-app
+  303  npx -create-react-app my-info
+  304  npx create-react-app my-app
+  305  cd my-app
+  306  npm start
+  307  npx-create-react-app my-info
+  308  npx create-react-app my-info
+  309  cd my-info
+  310  npm start
+  311  npx create--react-app my-app
+  312  npx create-react-app my-app
+  313  cd my-app
+  314  npm start
+  315  code .
+  316  node --version
+  317  npm start
+  318  pwd
+  319  cd documentos/estudos catia/REACT/PraticaReact/
+  320  ls
+  321  ls -1
+  322  clear
+  323  pwd
+  324  cd Documents/ESTUDOS CATIA/REACT/PraticaReact/
+  325  ls
+  326  ls -1
+  327  npm start
+  328  ls
+  329  ls -1
+  330  ls -l
+  331  npm start
+  332  npm istall
+  333  npm help
+  334  npm start
+  335  pwd
+  336  cd Documents/ESTUDOS CATIA/REACT/react001/
+  337  cd Documents/React/react001
+  338  cd React/react001
+  339  ls
+  340  cd react001
+  341  ls -l
+  342  npm start
+  343  clear
+  344  npx create-react-app react002
+  345  cd react002
+  346  npm start
+  347  npx create-react-app react004
+  348  cd react004
+  349  npm start
+  350  npx create-react-app react003
+  351  cd react003
+  352  npm start
+  353  npx create-react-app react005
+  354  cd react005
+  355  npm start
+  356  ls -l
+  357  clear
+  358  ls -l
+  359  npm start
+  360  ls
+  361  git clone https://github.com/leticiavargas/AulasReactToti.git
+  362  ls
+  363  cd AulasReactToti/
+  364  ls
+  365  git log
+  366  json-server --version
+  367  npm install -g json-server
+  368  json-server -p 4000 db.json
+  369  npm install
+  370  npm start
+  371  exit
+  372  npm install -g json-server
+  373  json-server -p 4000 db.json
+  374  ls -l
+  375  cd react004/
+  376  ls -l
+  377  npm start
+  378  npx create-react-app ReactState01
+  379  cd ReactState01
+  380  exit
+  381  ls -l
+  382  npm start
+  383  npx create-react-app
+  384  npx create-react-app ReactState01
+  385  npx create-react-app my-app
+  386  cd my-app
+  387  npm start
+  388  npx create-react-app my-app
+  389  cd my-app
+  390  npx create-react-app ReactState01
+  391  npx create-react-app state01
+  392  npx create-react-app state03
+  393  cd state03
+  394  npm start
+  395  npx create-react-app state02
+  396  cd start
+  397  cd state02
+  398  npm start
+  399  npx create-react-app state04
+  400  cd state04
+  401  npm start
+  402  npx create-react-app ProjetoReact
+  403  npx create-react-app my-projeto
+  404  cd my-projeto
+  405  npm start
+  406  cd my-projeto
+  407  npm start
+  408  clear
+  409  ls -l
+  410  npm start
+  411  git init
+  412  git init
+  413  git status
+  414  git add .
+  415  git status
+  416  git commit -m "Terceiro commit do meu projeto"
+  417  git remote add origin "git@github.com:CatiaManuel0310/Meu-projeto-React.git"
+  418  git push -u origin master
+  419  npm rum build
+  420  exit
+  421  node index.js
+  422  node index.js
+  423  exit
+  424  ls
+  425  cd Documentos
+  426  clear
+  427  exit
+  428  tar zxvf
+  429  tar zxvf PORTOFOLIO.tar.gz
+  430  exit
+  431  var n1=5
+  432  n1=4
+  433  n2=2
+  434  n1+n2
+  435  exit
+  436  git log
+  437  cd curso_Git
+  438  cd curso_Git/
+  439  git status
+  440  history > Aula_3.txt
+  441  git status
+  442  git add .
+  443  git commit -m 'Comandos da Aula_3.txt
+  444  git commit -m 'Comandos da Aula_3'
+  445  git commit -m 'Comandos da Aula_3.txt
+  446  git commit -m 'Comandos da Aula_3'
+  447  git log
+  448  git log --pretty=oneline
+  449  git log --stat
+  450  git log --author='Catia MANUEL'
+  451  git log --author='Catia Manuel'
+  452  git log --author='manuelcatia20@gmail.com'
+  453  touch teste
+  454  git add teste
+  455  git status
+  456  got commit -m 'commit de teste'
+  457  git commit -m 'commit de teste'
+  458  git log
+  459  git reset --soft HEAD~
+  460  git log
+  461  git status
+  462  git commit -m 'commit de teste'
+  463  git log
+  464  git reset --hard HEAD~
+  465  git log
+  466  git log --pretty=oneline
+  467  git checkout HEAD~~
+  468  git status
+  469  git log
+  470  ls
+  471  git checkout master
+  472  git log --pretty=oneline
+  473  git checkout HEAD~
+  474  clear
+  475  mkdir .vscode
+  476  touch conf.txt .vscode/
+  477  ls .vscode/
+  478  ls
+  479  ls -a
+  480  git status
+  481  echo '.vscode/' > .gitignore
+  482  git status
+  483  echo 'conf.txt' >> .gitignore
+  484  git status
+  485  git add .gitignore
+  486  git commit -m 'Adicionado arquivo .gitignore'
+  487  git status
+  488  history > 
+  489  history >
+  490  history > Aula_4.txt
+  491  git status
+  492  git add .
+  493  git commit -m 'Comandos da aula 4'
+  494  history -c: clear
+  495  clear
+  496  cd curso_Git
+  497  git branch
+  498  clear
+  499  cd curso_Git
+  500  cd curso_Git
+  501  git branch
+  502  git checkout -b feature
+  503  git branch
+  504  touch Nova_feature
+  505  git status
+  506  git add Nova_future
+  507  git add Nova_feature
+  508  git commit -m 'Adicionando nova feature'
+  509  git log
+  510  git checkout master
+  511  git status
+  512  git log
+  513  touch Continuando_master
+  514  git commit -m 'Adicionando continuação na master'
+  515  git checkout feature
+  516  git log
+  517  git checkout -b feature2 master
+  518  git log
+  519  git checkout -d feature2
+  520  git checkout -d feature2
+  521  git log
+  522  git branch -d feature2
+  523  git log
+  524  git checkout feature2
+  525  git log --pretty=oneline
+  526  git checkout master
+  527  history > Aula_5.txt
